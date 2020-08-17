@@ -29,9 +29,9 @@ const Skills = () => {
           <h1>Skills</h1>
           <div className="skills-info">
             <p>These are tools and technologies I've worked with professionally and on various applications</p>
-            <p>During quarantine, I developed this website to familiarize myself with React Hooks and Typescript</p>
+            <p>During quarantine, I developed this web app to familiarize myself with React Hooks and Typescript</p>
             <p>I also learned Python and developed a strong foundation with data structures and algorithms</p>
-            <p className="side-note"> Sidenote: I understand the word cloud is bad UI but I thought it looked cool :)</p>
+            <p className="side-note"> Sidenote: The word cloud is potentially bad UI but I thought it looked cool :)</p>
           </div>
         </div>
 
